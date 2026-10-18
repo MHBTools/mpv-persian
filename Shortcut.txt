@@ -1,0 +1,17 @@
+fast: C
+slow: X
+2x fast: shift + C
+2x slow: shift + X
+-------------------------
+change audio: ctrl + D
+change subtitle: ctrl + S
+
+sub delay up: h
+sub delay down: g
+-------------------------
+screenshot: ctrl + m
+fast minimize: B
+close: ctrl + c
+
+
+نکته: باید زبان روی حالت انگلیسی باشه تا عمل کنه
