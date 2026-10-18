@@ -38,4 +38,4 @@
 
 نکته: باید زبان روی حالت انگلیسی باشه تا عمل کنه
 ---
-**ساخته شده توسط [MHB Tools](https://github.com/MHBTools)**
+**ساخته شده توسط [MHBTools](https://github.com/MHBTools)**
